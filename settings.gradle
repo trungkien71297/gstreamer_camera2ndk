@@ -1,0 +1,4 @@
+include ':live555'
+include ':lib2'
+include ':app'
+rootProject.name = "cam2ndk"
